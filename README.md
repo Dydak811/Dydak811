@@ -1,6 +1,8 @@
 # Hi, I'm Diego Pastrana 👋
 
-![Data Analyst Banner](https://images.unsplash.com/photo-1551288049-bebda4e38f71)
+<p align="center">
+  <img src="banner github.png" alt="Diego Pastrana Data Analyst Banner">
+</p>
 
 📊 Junior Data Analyst | ⚙️ Mechatronics & Robotics Engineer
 
