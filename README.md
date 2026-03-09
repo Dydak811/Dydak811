@@ -8,18 +8,6 @@
 
 ---
 
-## About Me
-
-I am a **Junior Data Analyst with a background in Mechatronics and Robotics Engineering**, focused on transforming data into actionable insights to support better decision-making.
-
-I have experience in **data cleaning, exploratory data analysis, and data manipulation** using tools such as **Excel, SQL, and Python (Pandas, NumPy)**. I also work with **Google Sheets, GitHub, and have foundational knowledge of Azure**.
-
-I am characterized by **analytical thinking, attention to detail, and a structured approach to solving problems and optimizing processes through data analysis.**
-
-Currently, I am seeking opportunities as a **Junior Data Analyst, Business Data Analyst, or similar roles**, where I can contribute by analyzing data, generating insights, and helping organizations make data-driven decisions.
-
----
-
 ## 🛠 Skills
 
 - 📊 **Data Analysis:** Exploratory Data Analysis (EDA)
@@ -32,6 +20,31 @@ Currently, I am seeking opportunities as a **Junior Data Analyst, Business Data 
 
 ---
 
+## 📊 Projects
+
+### 🚦 Urban Mobility & Economic Analysis (LATAM) | Python
+
+Analysis of traffic congestion and economic indicators in Latin American cities using **Python (Pandas)** and **Jupyter Notebook**.  
+Focused on **data cleaning, dataset merging, and exploratory data analysis (EDA).**
+
+🔗 **Repository:**  
+https://github.com/Dydak811/Urban-Mobility-Economic-Analysis-LATAM-Python-2025-
+
+---
+
+## About Me
+
+I am a **Junior Data Analyst with a background in Mechatronics and Robotics Engineering**, focused on transforming data into actionable insights to support better decision-making.
+
+I have experience in **data cleaning, exploratory data analysis, and data manipulation** using tools such as **Excel, SQL, and Python (Pandas, NumPy)**. I also work with **Google Sheets, GitHub, and have foundational knowledge of Azure**.
+
+I am characterized by **analytical thinking, attention to detail, and a structured approach to solving problems and optimizing processes through data analysis.**
+
+Currently, I am seeking opportunities as a **Junior Data Analyst, Business Data Analyst, or similar roles**, where I can contribute by analyzing data, generating insights, and helping organizations make data-driven decisions.
+
+
+---
+
 ## 🚀 Currently
 
 - 📚 Continuing to develop my **Data Analytics portfolio**
@@ -41,6 +54,7 @@ Currently, I am seeking opportunities as a **Junior Data Analyst, Business Data 
 ---
 
 ## 🌐 Connect with me
+## Diego de Jesús Pastrana Blanco
 - 🔍 mail: diegopb811@gmail.com 
 - 💼 LinkedIn:  
 [linkedin.com/in/diego-pastrana](https://linkedin.com/in/diego-pastrana)
