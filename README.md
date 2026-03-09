@@ -1,7 +1,7 @@
 # Hi, I'm Diego Pastrana 👋
 
 <p align="center">
-  <img src="banner github.png" alt="Diego Pastrana Data Analyst Banner">
+  <img src="banner_github.png" alt="Diego Pastrana Data Analyst Banner">
 </p>
 
 📊 Junior Data Analyst | ⚙️ Mechatronics & Robotics Engineer
