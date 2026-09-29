@@ -22,6 +22,35 @@
 
 ## 📊 Projects
 
+### 📊 RappiPlus: Business Analytics & Dashboard | End-to-End Project
+
+**🎯 Context or Problem**
+Comprehensive evaluation of RappiPlus's commercial performance. The objective was to transform raw transactional, marketing, and user behavior data into actionable *insights* to identify opportunities for improving profitability, retention, and conversion.
+
+**👨‍💻 My Contribution**
+Developed the entire analytical workflow individually. I managed the complete data lifecycle: from initial extraction and cleaning to statistical hypothesis validation and the design of the final interactive dashboard.
+
+**⚙️ Process and Decisions**
+- **Data Preparation:** Centralized the cleaning of multiple data sources using **Python (Pandas and NumPy)** to ensure a scalable and replicable process.
+- **Modeling & Metrics:** Structured the conversion funnel and cohort analysis using **SQL (PostgreSQL)**, prioritizing the accuracy of historical metrics.
+- **Statistical Validation:** Evaluated the proposed *checkout* redesign through rigorous **A/B testing**, grounding product decisions in evidence.
+- **Visualization:** Consolidated findings in **Power BI (DAX)**, designing a dashboard with executive and detail-level views tailored to different business profiles.
+
+**🚀 Results and Learnings**
+- 💰 **Finance:** Mapped **$9.62M** in revenue, **$2.92M** in net profit, and an average order value of **$385.88**.
+- 📉 **Users:** Precisely identified critical drop-off points in the conversion funnel.
+- 💡 **Business Impact:** The A/B test statistically demonstrated that the checkout redesign did not generate a significant improvement (*p = 0.416*), preventing a costly implementation with no real business impact.
+
+**🔗 Evidence**
+- Link to repository: https://github.com/Dydak811/rappi-plus-analytics-dashboard
+- 📊 [Power BI: Interactive Dashboard]
+-## Executive Overview
+- ![Executive Dashboard](dashboard-overview.png)
+
+
+
+
+  
 ### 🚦 Urban Mobility & Economic Analysis (LATAM) | Python
 
 Analysis of traffic congestion and economic indicators in Latin American cities using **Python (Pandas)** and **Jupyter Notebook**.  
