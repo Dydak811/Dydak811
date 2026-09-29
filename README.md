@@ -44,11 +44,8 @@ Developed the entire analytical workflow individually. I managed the complete da
 **🔗 Evidence**
 - Link to repository: https://github.com/Dydak811/rappi-plus-analytics-dashboard
 - 📊 [Power BI: Interactive Dashboard]
--## Executive Overview
-- ![Executive Dashboard](dashboard-overview.png)
-
-
-
+## Executive Overview
+![Executive Dashboard](dashboard-overview.png)
 
   
 ### 🚦 Urban Mobility & Economic Analysis (LATAM) | Python
